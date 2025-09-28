@@ -1,0 +1,11 @@
+{
+  "name": "faturas-patricktransportes",
+  "version": "1.0.0",
+  "description": "Gerador de faturas para Patrick Transportes",
+  "main": "generate-invoice.js",
+  "scripts": {
+    "make-faturas": "node generate-invoice.js && node generate-index.js"
+  },
+  "author": "Patrick Transportes",
+  "license": "ISC"
+}
