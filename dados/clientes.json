@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Loja de Sapatos Estilo",
+    "cnpj": "12.345.678/0001-99",
+    "endereco": "Rua das Flores, 123 - Centro - São Paulo/SP"
+  },
+  {
+    "id": 2,
+    "nome": "Boutique Pé de Anjo",
+    "cnpj": "98.765.432/0001-11",
+    "endereco": "Av. Brasil, 456 - Moema - São Paulo/SP"
+  }
+]

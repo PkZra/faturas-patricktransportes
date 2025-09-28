@@ -1,0 +1,23 @@
+[
+  {
+    "clienteId": 1,
+    "produto": "Caixa 12 pares",
+    "quantidade": 10,
+    "valorUnitario": 15.0,
+    "data": "2025-09-20"
+  },
+  {
+    "clienteId": 1,
+    "produto": "Saco EXG",
+    "quantidade": 3,
+    "valorUnitario": 20.0,
+    "data": "2025-09-21"
+  },
+  {
+    "clienteId": 2,
+    "produto": "Envelope",
+    "quantidade": 5,
+    "valorUnitario": 5.0,
+    "data": "2025-09-22"
+  }
+]
